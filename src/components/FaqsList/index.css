@@ -1,0 +1,14 @@
+.answer {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: #007bff;
+  margin-bottom: 24px;
+}
+.question {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: #94a3b8;
+}
+

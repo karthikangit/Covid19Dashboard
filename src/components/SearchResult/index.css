@@ -1,0 +1,47 @@
+.search__result {
+  width: 100%;
+
+  justify-content: space-between;
+  display: flex;
+  border-bottom: 0.3px solid #64748b;
+  flex-direction: row;
+}
+
+.search__result_heading {
+  font-family: Roboto;
+  font-weight: normal;
+  font-style: normal;
+  color: #64748b;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.search__button {
+  margin: 5px 0px;
+  height: 32px;
+  top: 300px;
+  border-radius: 4px;
+  width: 79px;
+  left: 1029px;
+  border: none;
+  font-family: 'HK Grotesk';
+  background: rgba(28, 212, 212, 0.16);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  justify-content: flex-start;
+  color: #facc15;
+  font-style: normal;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+}
+.icon__right {
+  margin-left: 5px;
+}
+
+.link__search {
+  text-decoration: none;
+  cursor: pointer;
+}
